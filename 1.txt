@@ -1,0 +1,4 @@
+git add .
+git commit -m "Подготовка к GitHub Pages"
+git remote add origin https://github.com/твой-юзернейм/название-репозитория.git
+git push -u origin main
